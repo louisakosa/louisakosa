@@ -17,7 +17,7 @@
 - 
   
 
-<h2>CERTIFICATIONS</h2>
+<h2>Certifications</h2>
 
   -Comptia Security+
   - CCNA (Cisco Certified Network Associate)
