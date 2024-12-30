@@ -13,7 +13,7 @@
 
 <h2>PROFIT Innitiative and Other Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://github.com/users/louisakosa @VDE Setup at Ogu Bolo)
 - 
   
 
