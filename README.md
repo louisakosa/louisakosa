@@ -13,7 +13,7 @@
 
 <h2>PROFIT Innitiative and Other Projects</h2>
 
-- [Linu Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
+- [Linux Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
 - 
   
 
