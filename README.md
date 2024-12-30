@@ -13,7 +13,7 @@
 
 <h2>PROFIT Innitiative and Other Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://github.com/users/louisakosa@VDE_Setup)
+- [Linu Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
 - 
   
 
