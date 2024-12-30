@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emeka! <br/><a>Linux Engineer</a>, <a>CyberSecurity Professional</a>,  <a>Network Admin</a></h1>
+<h1>Hi, I'm Emeka! <br/><a>Linux Engineer</a> | <a>Network Engineer</a> | <a>CyberSecurity Professional</a></h1>h1>  
 
 <h2>👨‍💻 SystemAdmin & CyberSecurity Labs (Projects):</h2>
 
