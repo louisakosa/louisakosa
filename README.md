@@ -5,21 +5,24 @@
 <h2> SystemAdmin & CyberSecurity Labs (Projects): </h2>
 <br>
 - <b> Active Directory Labs </b>
-  - [Domain Controller Creation & Joining System Clients(Windows and Linux) to domain](https://www.youtube.com/watch?v=TItXqj5I-ps)
-  - Active Directory GPO deployment
 
+  - [Domain Controller Creation & Joining Windows and Linux clients to the domain](https://www.youtube.com/watch?v=TItXqj5I-ps)<br>
+  - Active Directory GPO deployment<br>
+  
   <br>
   <br>
 - <b> Networking Labs </b>
-  - [Point-To-Point Network: 2 Cisco Router, 2 Ubuntu clients On Cisco CML(Cisco Modeling Labs)](https://www.youtube.com/watch?v=3pXKbo6rxGs)
+
+  - [Point-To-Point Network: 2 Cisco Router, 2 Ubuntu clients On Cisco Cisco Modeling Labs](https://www.youtube.com/watch?v=3pXKbo6rxGs)
   <br>
   <br>
   
 - <b> CyberSecurity Labs </b>
- <br>
- <br>
+  <br>
+  <br>
  
 <h2> PROFIT Innitiative and Other Projects </h2>
+
 - [Linux Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
 - 
   
