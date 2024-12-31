@@ -1,24 +1,32 @@
 <h1>Hi, I'm Emeka! <br/><a>Linux Engineer</a> | <a>Network Engineer</a> | <a>CyberSecurity Professional</a></h1>
-
-<h2>👨‍💻 SystemAdmin & CyberSecurity Labs (Projects):</h2>
-
-- <b>Active Directory</b>
+<br>
+<br>
+<br>
+<h2> SystemAdmin & CyberSecurity Labs (Projects): </h2>
+<br>
+- <b> Active Directory Labs </b>
   - [Domain Controller Creation & Joining System Clients(Windows and Linux) to domain](https://www.youtube.com/watch?v=TItXqj5I-ps)
-  
-- <b>Networking</b>
+  - Active Directory GPO deployment
+
+  <br>
+  <br>
+- <b> Networking Labs </b>
   - [Point-To-Point Network: 2 Cisco Router, 2 Ubuntu clients On Cisco CML(Cisco Modeling Labs)](https://www.youtube.com/watch?v=3pXKbo6rxGs)
+  <br>
+  <br>
   
-- <b>CyberSecurity</b>
+- <b> CyberSecurity Labs </b>
+ <br>
+ <br>
  
-
-<h2>PROFIT Innitiative and Other Projects</h2>
-
+<h2> PROFIT Innitiative and Other Projects </h2>
 - [Linux Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
 - 
   
+<br>
+<br>
 
 <h2>Certifications</h2>
-
   - Comptia Security+
   - CCNA (Cisco Certified Network Associate)
   - RHCT (Redhat Certified Systems Rechnician)
