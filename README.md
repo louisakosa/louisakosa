@@ -30,10 +30,11 @@
 <br>
 
 <h2>Certifications</h2>
+
   - Comptia Security+
-  - CCNA (Cisco Certified Network Associate)
-  - RHCT (Redhat Certified Systems Rechnician)
-  - RHCE (Redhat Certified Engineer)
+  - Cisco Certified Network Associate
+  - Redhat Certified Systems Technician
+  - Redhat Certified Engineer
   - ISC2 Cyber Security
 
 
