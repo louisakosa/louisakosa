@@ -24,7 +24,7 @@
 <h2> PROFIT Innitiative and Other Projects </h2>
 
 - [Linux Virtual Desktop Enviroment setup](https://github.com/users/louisakosa@VDE_Setup)
-- 
+- [Cyber Safety Handbook](https://github.com/louisakosa/Cyber-Safty-HandBook)
   
 <br>
 <br>
