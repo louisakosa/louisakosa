@@ -6,7 +6,7 @@
 <br>
 - <b> Active Directory Labs </b>
 
-  - [Domain Controller Creation & Joining Windows and Linux clients to the domain](https://www.youtube.com/watch?v=TItXqj5I-ps)<br>
+  - [Domain Controller Creation & Joining Windows and Linux clients to the domain](https://www.youtube.com/watch?v=TItXqj5I-ps)
   - Active Directory GPO deployment<br>
   
   <br>
@@ -21,8 +21,13 @@
   <br>
   <br>
  
-<h2> PROFIT Innitiative and Other Projects </h2>
+<h2> PROFIT Initiative and Other Projects </h2>
 
+- [PROFIT Initiative Outings]
+  
+  - Redeemed
+  - Salvation
+    
 - [Linux Virtual Desktop Enviroment setup](https://github.com/louisakosa/VDI_setup_Ogu-Bolo)
 - [Cyber Safety Handbook](https://github.com/louisakosa/Cyber-Safty-HandBook)
   
