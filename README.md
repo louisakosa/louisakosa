@@ -23,11 +23,7 @@
  
 <h2> PROFIT Initiative and Other Projects </h2>
 
-- [PROFIT Initiative Outings]
-  
-  - Redeemed
-  - Salvation
-    
+- [PROFIT Initiative](https://web.facebook.com/profile.php?id=100068384255665)    
 - [Linux Virtual Desktop Enviroment setup](https://github.com/louisakosa/VDI_setup_Ogu-Bolo)
 - [Cyber Safety Handbook](https://github.com/louisakosa/Cyber-Safty-HandBook)
   
