@@ -10,9 +10,10 @@
   - Active Directory GPO deployment<br>
 
 
-- <b> Linux Labs </b>  
-  -LVM SNAP SHOT
-  -RAID 5
+- <b> Linux Labs </b>
+  
+  -LVM SNAP SHOT<br>
+  -RAID 5<br>
   
 - <b> Networking Labs </b>
   <br>
