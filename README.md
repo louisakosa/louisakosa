@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h2> SystemAdmin & CyberSecurity Labs (Projects): </h2>
+<h2> LABs & PROJECTs: </h2>
 <br>
 - <b> Active Directory Labs </b>
 
