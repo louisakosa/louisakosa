@@ -8,9 +8,13 @@
 
   - [Domain Controller Creation & Joining Windows and Linux clients to the domain](https://www.youtube.com/watch?v=TItXqj5I-ps)
   - Active Directory GPO deployment<br>
+
+
+  <b> Linux Labs </b>
   
   <br>
   <br>
+  
 - <b> Networking Labs </b>
 
   - [Point-To-Point Network: 2 Cisco Router, 2 Ubuntu clients On Cisco Cisco Modeling Labs](https://www.youtube.com/watch?v=3pXKbo6rxGs)
