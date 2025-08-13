@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emeka! <br/><a>Linux Engineer</a>|<a>Network Engineer</a>|<a>CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Emeka! <br/><a>Linux</a>|<a>Networking</a>|<a>CyberSecurity</a></h1>
 <br>
 <br>
 <br>
