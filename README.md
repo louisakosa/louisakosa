@@ -17,7 +17,6 @@
   
 - <b> Networking Labs </b>
   <br>
-  <br>
 
   - [Point-To-Point Network: 2 Cisco Router, 2 Ubuntu clients On Cisco Cisco Modeling Labs](https://www.youtube.com/watch?v=3pXKbo6rxGs)
   <br>
